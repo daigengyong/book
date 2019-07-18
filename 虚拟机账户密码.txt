@@ -1,0 +1,7 @@
+Other Linux 2.6.xkernel
+用户名：test        密码：123456
+用户名：root       密码：333333
+
+Ubuntu64位
+用户名：www.yueqian.com.cn    密码：123456
+用户名：root		 密码：123456
